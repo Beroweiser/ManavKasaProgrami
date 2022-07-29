@@ -17,7 +17,7 @@ public class ManavKasaProgrami {
         System.out.print("Patlıcan Kaç Kilo ? :");
         p = input.nextDouble();
         toplam = armut * a + elma * e + domates * d + muz * m + patlıcan * p;
-        System.out.println("Toplam Tutar : "+ toplam);
+        System.out.println("Toplam Tutar : "+ toplam +" TL");
 
 
     }
